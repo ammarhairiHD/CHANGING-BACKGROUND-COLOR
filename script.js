@@ -24,9 +24,5 @@ function randomColor() {
       } 
       else if (colorGenerator >= 0 && colorGenerator< 7 / 7) {
       document.body.style.backgroundColor = "rgb(10, 20, 10)"; }
-
-      if (document.body.style.backgroundColor = "rgb(120, 70, 255") {document.getElementsByClassName('.box')}
-
-
       
 }
